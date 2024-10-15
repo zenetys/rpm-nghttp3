@@ -1,0 +1,1 @@
+nghttp3 1.6.0 json:map(.html_url)[]:.+ https://api.github.com/repos/ngtcp2/nghttp3/releases <tag/v([0-9][0-9.]*)
