@@ -12,7 +12,7 @@
 %global source_date_epoch_from_changelog 0
 
 Name: nghttp3-0z
-Version: 1.11.0
+Version: 1.12.0
 Release: 1%{?dist}.zenetys
 Summary: nghttp3 HTTP/3 library written in C
 License: MIT
